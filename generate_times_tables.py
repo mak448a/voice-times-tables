@@ -1,3 +1,7 @@
+"""
+This file is for generating the the times.json file.
+The json file is then used in the quiz files.
+"""
 import json
 
 times_tables = {}
