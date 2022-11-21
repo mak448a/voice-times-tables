@@ -15,7 +15,7 @@ Run this code:
 Install dependencies<br>
 ``pip install -r requirements.txt``
 
-Run the program (windows)<br>
+Run the program (Windows)<br>
 ``python quiz_voice.py``
 
 Run the program (Linux and MacOS)<br>
