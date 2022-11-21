@@ -13,7 +13,7 @@ For more information about the file, check [here](voice_recognition.py).
 Run this code:
 
 Install dependencies<br>
-``pip install vosk sounddevice``
+``pip install -r requirements.txt``
 
 Run the program<br>
 ``python3 quiz_voice.py``
